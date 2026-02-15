@@ -4,7 +4,8 @@ A feature-rich, dual-role e-commerce application built with the **PERN stack** (
 
 ## 🎥 Demo Video
 
-[Watch Demo on YouTube](https://youtu.be/xTRiehR0IJ8)
+[![Watch the demo](https://img.youtube.com/vi/xTRiehR0IJ8/0.jpg)](https://youtube.com/watch?v=xTRiehR0IJ8)
+
 
 
 ## ✨ Features
