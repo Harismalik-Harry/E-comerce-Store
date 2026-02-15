@@ -2,6 +2,11 @@
 
 A feature-rich, dual-role e-commerce application built with the **PERN stack** (PostgreSQL, Express, React, Node.js). Designed for scalability with advanced database features like triggers, views, and stored procedures.
 
+## 🎥 Demo Video
+
+[Watch Demo on YouTube](https://youtu.be/xTRiehR0IJ8)
+
+
 ## ✨ Features
 
 ### 🛒 For Customers
